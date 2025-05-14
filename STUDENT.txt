@@ -1,2 +1,7 @@
-APP_URL= https://tubular-biscotti-9a7740.netlify.app/
-MAP_SERVICE_API_KEY=<api_key>
+Nama        : M Wahabul Farhan  
+Prodi       : Teknik Informatika  
+Platform    : Dicoding  
+Kelas       : Belajar Fundamental Front-End Web Development  
+Project     : Story App Submission  
+Repository  : https://github.com/Farhan-dev99/story-app-submission
+Deploy Link : https://farhan-dev99.github.io/story-app-submission/
